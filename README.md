@@ -6,10 +6,10 @@ Everyone can freely and easily download the sorce code, the executable program i
 
 flow chart
 
-![image](http://github.com/dinghl/equidistance_cluster/images/flowchart.jpg)
+![image](https://github.com/dinghl/equidistance_cluster/blob/master/images/flowchart.jpg)
 
 --------------
 
 main interface
 
-![image](http://github.com/dinghl/equidistance_cluster/images/interface.jpg)
+![image](https://github.com/dinghl/equidistance_cluster/blob/master/images/interface.jpg)
